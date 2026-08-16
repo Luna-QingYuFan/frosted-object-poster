@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frosted Object Poster"
+  short_description: "把物体照片重画成清新半透明磨砂海报"
+  default_prompt: "Use $frosted-object-poster to redraw this object photo from scratch as a fresh translucent frosted 3:4 poster, not as a photo filter."
